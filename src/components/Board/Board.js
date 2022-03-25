@@ -11,7 +11,7 @@ const Board = () => {
 
   return (
     <div className='Board' style={gridConfig}>
-      <Tile tile={props.tile} />
+
     </div>
   )
 }
